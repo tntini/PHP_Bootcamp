@@ -1,0 +1,63 @@
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 100%;
+    border: 1px solid #ddd;
+}
+body{
+    font-family: "Arial";
+}
+h1{
+    text-align:center;
+}
+div{
+    text-align: center;
+}
+p{
+    margin:3px;
+}
+p.weight{
+    text-align:right;
+}
+h2{
+    text-align:center;
+    margin:10px;
+}
+td {
+    min-width:80px;
+}
+.lightblue{
+    background-color:lightblue;
+}
+.pink{
+    background-color: pink;
+}
+.red{
+    background-color: red;
+}
+.goldenrod{
+    background-color: goldenrod;
+}
+.limegreen{
+    background-color:limegreen;
+}
+.grey{
+    background-color: grey;
+}
+
+.green{
+    background-color:green;
+}
+
+.purple{
+    background-color: purple;
+}
+.yellow{
+    background-color: yellow;
+}
+.wheat{
+    background-color:wheat;
+}
+.orange{
+    background-color: orange;
+}
